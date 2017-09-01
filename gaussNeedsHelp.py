@@ -1,3 +1,4 @@
+# summing the intgers from 1->n (via gauss's childhood trick!)
 def f(n):
     
     try:
