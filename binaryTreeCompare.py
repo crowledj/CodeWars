@@ -1,4 +1,6 @@
 ## Binary Tree compare :
+# Check two trees with roots a and b respectively, to see if they are identical,
+#i.e smae corresponding node values and structure.
 
 def compare(a, b):
 
